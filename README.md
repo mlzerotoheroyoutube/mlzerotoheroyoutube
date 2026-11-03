@@ -70,7 +70,7 @@ Each video has a folder with runnable Python and the notes behind it:
 | Large language models | [large-language-models](https://github.com/mlzerotoheroyoutube/large-language-models) |
 | Generative models | [generative-models](https://github.com/mlzerotoheroyoutube/generative-models) |
 
-### Open source
-The whole pipeline (scripts, open-source voice, code-drawn graphics, quality checks, scheduled publishing) lives in **[ml-zero-to-hero-videos](https://github.com/mlzerotoheroyoutube/ml-zero-to-hero-videos)**.
+### Contributing
+Found a mistake in a video or its code? Open an issue on the topic repo above.
 
 Made in San Francisco. Topic requests welcome: open an issue.

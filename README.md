@@ -70,6 +70,11 @@ Each video has a folder with runnable Python and the notes behind it:
 | Large language models | [large-language-models](https://github.com/mlzerotoheroyoutube/large-language-models) |
 | Generative models | [generative-models](https://github.com/mlzerotoheroyoutube/generative-models) |
 
+### Sister channel: AI Zero to Hero
+Most people say "AI" when they mean machine learning. [AI Zero to Hero](https://www.youtube.com/@aizerotoherousa) covers the rest of the field: search, logic, planning, probability and robots, then the systems people build around LLMs. Every video starts on the same map, AI on the outside with machine learning, deep learning and LLMs inside it.
+
+Code and notes for every AI video: [ai-zero-to-hero](https://github.com/mlzerotoheroyoutube/ai-zero-to-hero)
+
 ### Contributing
 Found a mistake in a video or its code? Open an issue on the topic repo above.
 
